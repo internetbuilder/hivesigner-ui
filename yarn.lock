@@ -957,10 +957,10 @@
     pump "^3.0.0"
     stack-generator "^2.0.3"
 
-"@bugsnag/plugin-vue@^7.11.0":
-  version "7.11.0"
-  resolved "https://registry.yarnpkg.com/@bugsnag/plugin-vue/-/plugin-vue-7.11.0.tgz#ff0e9375fa39444604ee8a3d3f88ea96e65b2d2c"
-  integrity sha512-OYfyicAKus9QaZP/2LpkBeQZIP++phm3JYBGB2lkepgvB3TisfKv+m5rIzEbDgHMawKMBkKGTpT8hpsXOMT+Nw==
+"@bugsnag/plugin-vue@^7.18.0":
+  version "7.18.0"
+  resolved "https://registry.yarnpkg.com/@bugsnag/plugin-vue/-/plugin-vue-7.18.0.tgz#76e1a4a47fac98159aca4ab7dbdcb1ee9851f5ee"
+  integrity sha512-mi7fE5HQgDF6nNin43T2RR5P/ET6Oi7oIO5PpCj3wrEkis2y1Ak0ANJNrLz5Cnx9HD/XdMw1f2SjZqC59EBm8g==
 
 "@bugsnag/safe-json-stringify@^6.0.0":
   version "6.0.0"
