@@ -46,7 +46,7 @@
     "primer": "^11.0.0",
     "query-string": "^6.14.1",
     "triplesec": "^4.0.3",
-    "url-parse": "^1.4.7",
+    "url-parse": "^1.5.9",
     "vue-carousel": "^0.18.0"
   },
   "devDependencies": {
