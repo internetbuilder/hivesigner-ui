@@ -44,7 +44,7 @@
     "password-validator": "^5.1.1",
     "portal-vue": "^2.1.7",
     "primer": "^11.0.0",
-    "query-string": "^6.14.1",
+    "query-string": "^7.1.3",
     "triplesec": "^4.0.3",
     "url-parse": "^1.4.7",
     "vue-carousel": "^0.18.0"
